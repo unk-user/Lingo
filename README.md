@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Duolingo clone made with Nextjs and Stripe for subscription payment.
 
 ## Getting Started
 
